@@ -1,1 +1,1 @@
-s.rammus.me:80
+s.rammus.me
